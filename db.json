@@ -1,0 +1,24 @@
+{
+"product" : [
+{"id":1,"name":"Striped skunk","category":"Blue"},
+{"id":2,"name":"Black bear","category":"Red"},
+{"id":3,"name":"Roan antelope","category":"Orange"},
+{"id":4,"name":"Burmese brown mountain tortoise","category":"Fuscia"},
+{"id":5,"name":"Common green iguana","category":"Turquoise"},
+{"id":6,"name":"Civet cat","category":"Puce"},
+{"id":7,"name":"Sparrow, house","category":"Khaki"},
+{"id":8,"name":"Wallaroo, common","category":"Turquoise"},
+{"id":9,"name":"Southern white-crowned shrike","category":"Teal"},
+{"id":10,"name":"Old world fruit bat (unidentified)","category":"Khaki"},
+{"id":11,"name":"Pie, indian tree","category":"Blue"},
+{"id":12,"name":"Peccary, white-lipped","category":"Purple"},
+{"id":13,"name":"Springhare","category":"Aquamarine"},
+{"id":14,"name":"Ass, asiatic wild","category":"Violet"},
+{"id":15,"name":"Curve-billed thrasher","category":"Blue"},
+{"id":16,"name":"Oryx, fringe-eared","category":"Green"},
+{"id":17,"name":"Bontebok","category":"Orange"},
+{"id":18,"name":"Red lava crab","category":"Green"},
+{"id":19,"name":"Jabiru stork","category":"Indigo"},
+{"id":20,"name":"Black-tailed deer","category":"Puce"}
+]
+}
